@@ -1,0 +1,7 @@
+/.mvn/
+/ theory.txt
+/.idea/
+/target/
+/mvnw
+/mvnw.cmd
+/ripper.iml
